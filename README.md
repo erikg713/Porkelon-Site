@@ -1,116 +1,62 @@
 # Porkelon-Site #
 --------------------------
+# 🐖 Porkelon ($PORK)  
+**The Meme Coin of the Future, Inspired by Elon 🚀**  
 
-🐖🚀 Porkelon ($PORK) – The Meme Coin of the Future
-
-🔥 Narrative / Vision
-
-Porkelon ($PORK) is the community-driven meme coin built on the Solana blockchain.
-Fast, scalable, and affordable — but most importantly, fun.
-
-We’re blending:
-
-Memes 🐖 (Elon + pig = Porkelon)
-
-Community Power 🌍
-
-Blockchain Utility ⚡
------------------------------
-
-This is not just another coin — this is a movement for the people.
-
+![Porkelon Logo](assets/porkelon-logo.png)
 
 ---
 
-📊 Tokenomics
-
-Total Supply: 1,000,000,000 $PORK
-
-🔥 50% Burned (forever removed from circulation)
-
-🌍 30% Community / Marketing (airdrops, giveaways, campaigns)
-
-💧 10% Liquidity Pool (to ensure smooth trading)
-
-👨‍💻 10% Team/Dev (locked for 12 months)
-
-
+## 🌍 About Porkelon
+Porkelon is a **1 Billion supply-capped meme token** on the **Solana blockchain**.  
+It blends **humor, community, and innovation** to create a fast, scalable, and exciting project for the people.  
 
 ---
 
-🗺️ Roadmap
+## 📊 Tokenomics
+- **Total Supply:** 1,000,000,000 $PORK  
+- 🔥 50% Burned  
+- 🌍 30% Community / Marketing  
+- 💧 10% Liquidity Pool  
+- 👨‍💻 10% Team/Dev (locked for 12 months)  
+- 💸 Creator Fees: 0.15% (via Moonshot)  
 
-Phase 1: 🚀 Token Launch & Early Community Growth
-
-Initial launch on Solana
-
-Meme creation contests
-
-1,000+ holders
-
-
-Phase 2: 🌐 Exchange Listings & NFT Meme Drops
-
-Listings on decentralized & centralized exchanges
-
-Launch Porkelon NFT collection
-
-Influencer marketing
-
-
-Phase 3: 🛒 Merch & Ecosystem Expansion
-
-Porkelon meme merch store
-
-Strategic partnerships
-
-10,000+ holders
-
-
-Phase 4: 🌌 The Memeverse & Beyond
-
-Meme gaming integration
-
-DAO launch for governance
-
-Expansion into metaverse collaborations
-
-
+[🔗 View on Solscan](https://solscan.io/token/YOUR_TOKEN_ADDRESS)  
 
 ---
 
-🌍 Community
+## 🛣 Roadmap
+**Phase 1 – Launch & Growth** ✅  
+- Token creation & launch on Solana  
+- Initial community building  
+- Verification on Moonshot  
 
-Join the Porkelon movement and ride the rocket with us:
+**Phase 2 – Expansion** 🚀  
+- Exchange listings  
+- Meme-inspired NFT drops  
 
-🐦 Twitter: twitter.com/porkelon
+**Phase 3 – Ecosystem** 🌐  
+- Porkelon merch line  
+- Partnerships & collaborations  
+- Expanding utility & awareness  
 
-💬 Telegram: t.me/porkelon
-
-🎮 Discord: discord.gg/porkelon
-
-
-
----
-
-📈 Token Info
-
-Ticker: $PORK
-
-Blockchain: Solana
-
-Contract Address: 🔗 View on Solscan
-
-
+**Phase 4 – The Memeverse & Beyond** 🌌  
+- Gamification & metaverse integration  
+- Future ecosystem innovations  
 
 ---
 
-🚀 Why $PORK?
+## 🌐 Join the Community
+- 🐦 [Twitter](https://twitter.com/porkelon)  
+- 💬 [Telegram](https://t.me/porkelon)  
+- 🎮 [Discord](https://discord.gg/porkelon)  
 
-100% community-driven 🐖
+---
 
-Deflationary model with massive burn 🔥
+## 📌 Official Website
+👉 [Porkelon-Site Live on GitHub Pages](https://erikg713.github.io/Porkelon-Site/)  
 
-Meme potential + crypto fundamentals
+---
 
-Built on Solana for fast, cheap, and green transactions 
+### ⚡ Powered by Solana
+Built for speed, scalability, and the community 💜
