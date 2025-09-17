@@ -1,4 +1,4 @@
-# 🐖 Porkelon ($PORK) #  
+# 🐖 Porkelon ($PORK)
 **The Meme Coin of the Future, Inspired by Elon 🚀**  
 
 ![Porkelon Logo](assets/porkelon-logo.png)
