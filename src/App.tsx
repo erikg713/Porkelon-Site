@@ -18,21 +18,21 @@ function App() {
 
       {/* Hero */}
       <header className="hero">
-        <div className="hero-text">
-          <h1>Porkelon Token: Grow Your Wealth,<br /> One Oink at a Time!</h1>
-          <p>Community driven • Secure & audited • Passive rewards</p>
+        <div className="hero-content">
+          <div className="hero-text">
+            <h1>Porkelon Token: Grow Your Wealth,<br /> One Oink at a Time!</h1>
+            <p>Community driven • Secure & audited • Passive rewards</p>
+          </div>
+          <div className="hero-img">
+            <img
+              src="https://img.icons8.com/color/240/000000/pig--v1.png"
+              alt="Pig Mascot"
+            />
+          </div>
         </div>
-        <div className="hero-img">
-          <img
-            src="https://img.icons8.com/color/240/000000/pig--v1.png"
-            alt="Pig Mascot"
-          />
-        </div>
-      </header>
 
-      {/* Features */}
-      <section className="features">
-        <div className="grid">
+        {/* Feature Cards Inside Hero */}
+        <div className="features">
           <article>
             <img src="https://img.icons8.com/fluency/96/pig.png" alt="Community Driven" />
             <h3>Community Driven</h3>
@@ -49,12 +49,12 @@ function App() {
             <p>Earn rewards just by holding $PORK.</p>
           </article>
         </div>
-      </section>
+      </header>
 
       {/* Tokenomics */}
       <section id="tokenomics" className="tokenomics-section">
         <h2>📊 Tokenomics</h2>
-        <div className="grid tokenomics">
+        <div className="tokenomics">
           <article>
             <img
               src="https://images.unsplash.com/photo-1629916977910-13213fae2498?auto=format&fit=crop&w=600&q=80"
